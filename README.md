@@ -1,2 +1,0 @@
-# face-completion
-face completion
